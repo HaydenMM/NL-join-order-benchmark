@@ -1,0 +1,1 @@
+What is the minimum kind of movie and the title of the first US internet movie released after 1990, with the 'complete+verified' cast status, having 'release dates' information, and originating from a US company, across categories like movie, TV movie, video movie, or video game?

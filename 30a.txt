@@ -1,0 +1,1 @@
+What is the minimum movie budget, number of votes, writer's name, and title of a complete verified film produced after 2000, which involves violence-related keywords, falls under the Horror or Thriller genres, and has male writers credited as "(writer)", "(head writer)", "(written by)", "(story)", or "(story editor)"?

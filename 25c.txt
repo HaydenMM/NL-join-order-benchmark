@@ -1,0 +1,1 @@
+What is the lowest budget and number of votes of a violent movie from a horror, action, sci-fi, thriller, crime, or war genre, featuring a male writer, with keywords related to murder, violence, blood, gore, death, female nudity, or hospital?

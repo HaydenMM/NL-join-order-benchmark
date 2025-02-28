@@ -1,0 +1,1 @@
+What are the names and additional information of cast members whose names contain 'a' or start with 'A', have a mini biography, have a name starting with letters between 'A' and 'F', are male or female starting with 'A', have non-null notes, and are linked to movies produced between 1980 and 2010 with specific linkage types?

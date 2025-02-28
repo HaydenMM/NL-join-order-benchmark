@@ -1,0 +1,1 @@
+What are the names of the first and second companies, the first and second ratings, and the titles of the first and second movies for TV series produced by US companies, where the second series has a rating of less than 3.0, was produced between 2005 and 2008, and the relationship between the two series is either sequel, follows, or followed by?

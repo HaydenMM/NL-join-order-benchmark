@@ -1,0 +1,1 @@
+What is the minimum budget and minimum number of votes for horror movies titled "Vampire" released after 2010 that involve violent keywords like murder or gore and were written by male writers?

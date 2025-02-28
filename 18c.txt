@@ -1,0 +1,1 @@
+What is the minimum budget, minimum number of votes, and the movie title for horror, action, sci-fi, thriller, crime, or war genre movies written by male writers?

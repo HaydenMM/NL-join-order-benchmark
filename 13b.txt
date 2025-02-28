@@ -1,0 +1,1 @@
+What is the name of the production company, the rating, and the movie title of U.S.-produced movies that have titles containing 'Champion' or 'Loser'?

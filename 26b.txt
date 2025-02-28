@@ -1,0 +1,1 @@
+What is the name of the character, the rating, and the complete title of superhero movies with keywords like 'superhero', 'marvel-comics', 'based-on-comic', or 'fight' featuring characters with 'man' or 'Man' in their name, which are rated above 8.0 and released after 2005?

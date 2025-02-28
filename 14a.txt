@@ -1,0 +1,1 @@
+What is the lowest rating and title of a movie produced after 2010, featuring keywords like murder, blood, or violence, originating from a country such as Sweden, Norway, Germany, Denmark, or the USA, and with a rating below 8.5?

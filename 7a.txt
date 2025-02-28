@@ -1,0 +1,1 @@
+What is the name of the person whose name includes the letter 'a', who has a mini biography information type, where the biography is noted as 'Volker Boehm', and whose gender is male or a female whose name starts with 'B', with a movie featuring link produced between 1980 and 1995, and the person's name code falls between 'A' and 'F'?

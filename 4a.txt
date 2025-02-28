@@ -1,0 +1,1 @@
+What are the lowest ratings and movie titles of sequels with a rating above 5.0, produced after 2005?

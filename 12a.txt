@@ -1,0 +1,1 @@
+What is the name of the production company located in the US that produced movies with either Drama or Horror genres with a rating greater than 8.0 and released between 2005 and 2008?

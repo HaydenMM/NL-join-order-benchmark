@@ -1,0 +1,1 @@
+What is the minimum movie budget, minimum votes, writer's name, and title of a complete and verified movie featuring the keywords 'murder', 'violence', 'blood', 'gore', 'death', 'female-nudity', or 'hospital', in the genres 'Horror' or 'Thriller', produced after the year 2000, directed by male writers, with titles containing 'Freddy', 'Jason', or starting with 'Saw'?

@@ -1,0 +1,1 @@
+What is the minimum budget and title of the least successful movie produced or distributed by an American company after 2000, where the title starts with "Birdemic" or ends with "Movie"?

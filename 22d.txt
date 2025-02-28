@@ -1,0 +1,1 @@
+What are the lowest-rated movies or episodes produced by non-US companies since 2005 with keywords like murder, blood, or violence, originating from specific European or American regions, and which have a rating below 8.5?

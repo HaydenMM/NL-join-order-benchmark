@@ -1,0 +1,1 @@
+What is the minimum budget, votes, male writer's name, and title for Lionsgate movies with violent or horror-related keywords, written by a male writer, and classified under Horror or Thriller genres?

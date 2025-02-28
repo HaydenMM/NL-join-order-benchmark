@@ -1,0 +1,1 @@
+What are the earliest company names, movie ratings, and titles for two linked TV series from a specified country, where the second series aired in 2007, has a rating less than 3.0, and the link type includes 'follow'?

@@ -1,0 +1,1 @@
+What are the names of production companies, their movie ratings, and titles of Western-violent movies released after 2005 that are associated with keywords like "murder," "blood," or "violence," produced in countries such as Sweden, Norway, Germany, Denmark, or USA, have an international focus (outside of the USA), and have ratings below 8.5?

@@ -1,0 +1,1 @@
+What are the names of non-US movie companies, along with their ratings and titles of complete European movies featuring keywords such as 'murder', 'blood', or 'violence', produced after 2005 with movie ratings less than 8.5?
