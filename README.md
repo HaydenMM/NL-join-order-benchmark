@@ -1,4 +1,14 @@
-# Join Order Benchmark
+# Natural Language Join Order Benchmark
+This repo contains the original Join Order Benchmark Queries along with a Natural Language Question that captures the contents of the query.
+
+Using OpenAI's GPT-4o model, we converted these queries into Natural Language via the following prompt:
+
+```
+"Your job is to act as a Semantic Parser converting these SQL queries I give you into Natural Language Questions. You should respond with nothing other than the Natural Language Question that accurately captures the SQL query provided. Do Not Respond with anything other than the Natural Language Question. Here is the SQL Query to convert: " + query
+```
+
+
+# References
 
 This package contains the **Join Order Benchmark** (JOB) queries from:  
 "How Good Are Query Optimizers, Really?"  
@@ -19,63 +29,3 @@ at
 The license and links to the current version IMDB data set can be
 found at 
 [http://www.imdb.com/interfaces](http://www.imdb.com/interfaces)
-
-### Step-by-step instructions
-1. download `*gz` files (unpacking not necessary)
-
-  ```sh
-  wget ftp://ftp.fu-berlin.de/misc/movies/database/frozendata/*gz
-  ```
-  
-2. download and unpack `imdbpy` and the `imdbpy2sql.py` script
-
-  ```sh
-  wget https://bitbucket.org/alberanid/imdbpy/get/5.0.zip
-  ```
-
-3. create PostgreSQL database (e.g., name imdbload):
-
-  ```sh
-  createdb imdbload
-  ```
-
-4. transform `*gz` files to relational schema (takes a while)
-
-  ```sh
-  imdbpy2sql.py -d PATH_TO_GZ_FILES -u postgres://username:password@hostname/imdbload
-  ```
-
-Now you should have a PostgreSQL database named `imdbload` with the
-imdb data. Note that this database has some secondary indexes (but not
-on all foreign key attributes). You can export all tables to CSV:
-
-```sql
-\copy aka_name to 'PATH/aka_name.csv' csv
-\copy aka_title to 'PATH/aka_title.csv' csv
-\copy cast_info to 'PATH/cast_info.csv' csv
-\copy char_name to 'PATH/char_name.csv' csv
-\copy comp_cast_type to 'PATH/comp_cast_type.csv' csv
-\copy company_name to 'PATH/company_name.csv' csv
-\copy company_type to 'PATH/company_type.csv' csv
-\copy complete_cast to 'PATH/complete_cast.csv' csv
-\copy info_type to 'PATH/info_type.csv' csv
-\copy keyword to 'PATH/keyword.csv' csv
-\copy kind_type to 'PATH/kind_type.csv' csv
-\copy link_type to 'PATH/link_type.csv' csv
-\copy movie_companies to 'PATH/movie_companies.csv' csv
-\copy movie_info to 'PATH/movie_info.csv' csv
-\copy movie_info_idx to 'PATH/movie_info_idx.csv' csv
-\copy movie_keyword to 'PATH/movie_keyword.csv' csv
-\copy movie_link to 'PATH/movie_link.csv' csv
-\copy name to 'PATH/name.csv' csv
-\copy person_info to 'PATH/person_info.csv' csv
-\copy role_type to 'PATH/role_type.csv' csv
-\copy title to 'PATH/title.csv' csv
-```
-
-To import the CSV files to another database, create all tables (see
-`schema.sql` and optionally `fkindexes.sql`) and run the same copy as
-above statements but replace the keyword "to" by "from".
-
-### Questions
-Contact Viktor Leis (leis@in.tum.de) if you have any questions.
