@@ -4,7 +4,12 @@ This repo contains the original Join Order Benchmark Queries along with a Natura
 Using OpenAI's GPT-4o model, we converted these queries into Natural Language via the following prompt:
 
 ```
-"Your job is to act as a Semantic Parser converting these SQL queries I give you into Natural Language Questions. You should respond with nothing other than the Natural Language Question that accurately captures the SQL query provided. Do Not Respond with anything other than the Natural Language Question. Here is the SQL Query to convert: " + query
+"Your job is to act as a Semantic Parser converting these SQL queries I give you into Natural Language Questions. "
+"You should respond with nothing other than the Natural Language Question that accurately captures the SQL query provided. "
+"Do Not Respond with anything other than the Natural Language Question. "
+"I am also going to provide the SQL Database Schema. "
+"Here is the SQL Database Schema: " + schema +
+"Here is the SQL Query to convert: " + query
 ```
 
 
