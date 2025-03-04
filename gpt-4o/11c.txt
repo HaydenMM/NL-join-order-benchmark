@@ -1,1 +1,1 @@
-What are the names of movies produced after 1950, based on novels, sequels, or revenge themes, with production notes, produced by the companies that are not production companies and are named '20th Century Fox' or 'Twentieth Century Fox', and not from Poland?
+What are the company name, production note, and movie title for movies that are linked by certain keywords, produced by Twentieth Century Fox companies (excluding those from Poland), not classified as production companies, and released after 1950?

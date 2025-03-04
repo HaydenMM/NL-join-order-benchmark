@@ -1,1 +1,1 @@
-What is the minimum movie budget, votes, and title for movies produced by males named Tim, with roles as producers or executive producers?
+What is the minimum budget, minimum votes, and title of a movie produced or executive produced by a male whose name includes 'Tim'?

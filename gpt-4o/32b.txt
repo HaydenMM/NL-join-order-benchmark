@@ -1,1 +1,1 @@
-What is the type of link, the title of the first movie, and the title of the second movie for movies that have the keyword 'character-name-in-title'?
+What is the link type, the title of the first movie, and the title of the second movie where the keyword 'character-name-in-title' is associated with the first movie and both movies are linked?

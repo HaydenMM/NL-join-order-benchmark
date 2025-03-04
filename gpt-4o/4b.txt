@@ -1,1 +1,1 @@
-What are the minimum ratings and titles of movies with a sequel released after 2010 and having a rating greater than 9.0?
+What is the minimum rating and title of the movie that is a sequel, has a rating greater than 9.0, and was produced after the year 2010?

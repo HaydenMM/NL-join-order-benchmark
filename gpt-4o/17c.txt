@@ -1,1 +1,1 @@
-What are the names of members starting with 'X' who have appeared in movies with the keyword 'character-name-in-title'?
+What is the name of the person, whose name starts with 'X', who is a member of a company in a movie with a character name in the title?

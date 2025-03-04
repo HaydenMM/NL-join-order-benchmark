@@ -1,1 +1,1 @@
-What is the minimum movie budget, the minimum number of votes, the name of the writer, and the title of a violent movie produced by Lionsgate that belongs to genres like Horror, Action, Sci-Fi, Thriller, Crime, or War, and has keywords like murder, violence, blood, gore, death, female-nudity, or hospital?
+What is the minimum budget, the minimum number of votes, the writer's name, and the title of a movie produced by Lionsgate with themes related to murder, violence, or blood, and falling under the genres of Horror, Action, Sci-Fi, Thriller, Crime, or War?

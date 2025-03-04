@@ -1,1 +1,1 @@
-What is the name of the company and the production note for movies produced after 1950 that are based on sequels, revenge, or novels, with the company not being a production company, not based in Poland, and linked to movie titles?
+What is the minimum name of the company from a country other than Poland, the minimum production note, and the minimum title of movies made after 1950 that are based on a novel, revenge or are sequels, not associated with production companies?

@@ -1,1 +1,1 @@
-What is the name of the member with the smallest alphabetical order that includes "Bert" who is associated with movies that have the keyword "character-name-in-title"?
+What is the smallest name (alphabetically) of a person with "Bert" in their name, who is associated with a movie that includes the keyword "character-name-in-title"?

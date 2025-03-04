@@ -1,1 +1,1 @@
-What are the production notes, movie titles, and production years for movies produced by production companies, excluding those associated with 'Metro-Goldwyn-Mayer Pictures', which fall in the bottom 10 rank and were produced between 2005 and 2010?
+What are the production notes, movie titles, and production years of movies produced by companies classified as "production companies," whose movies were ranked in the bottom 10, were produced between 2005 and 2010, and do not have the note "as Metro-Goldwyn-Mayer Pictures"?

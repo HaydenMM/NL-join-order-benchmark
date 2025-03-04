@@ -1,1 +1,1 @@
-What is the lowest budget and number of votes of a violent movie from a horror, action, sci-fi, thriller, crime, or war genre, featuring a male writer, with keywords related to murder, violence, blood, gore, death, female nudity, or hospital?
+What is the minimum budget, minimum number of votes, name of the male writer, and title of the most violent movie that includes at least one of the keywords 'murder', 'violence', 'blood', 'gore', 'death', 'female-nudity', or 'hospital' and belongs to the genres 'Horror', 'Action', 'Sci-Fi', 'Thriller', 'Crime', or 'War'?

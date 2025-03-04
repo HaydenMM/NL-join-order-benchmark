@@ -1,1 +1,1 @@
-What is the name of the member with the lexicographically smallest name that contains 'B' and has appeared in a movie with a 'character-name-in-title'?
+What is the alphabetically first name of a person involved in a movie with the keyword "character-name-in-title" where the person's name contains the letter 'B'?

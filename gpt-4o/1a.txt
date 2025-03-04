@@ -1,1 +1,1 @@
-What are the production notes, movie titles, and production years for movies that include notes indicating "co-production" or "presents" from production companies, excluding those with notes mentioning "Metro-Goldwyn-Mayer Pictures," which also have a "top 250 rank"?
+What are the production note, movie title, and production year for movies involving production companies, ranked in the top 250, which include notes indicating '(co-production)' or '(presents)', excluding '(as Metro-Goldwyn-Mayer Pictures)'?

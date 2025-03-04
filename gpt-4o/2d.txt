@@ -1,1 +1,1 @@
-What is the title of the first movie produced by a company with the country code 'us' that has a character's name in its title?
+What is the title of the earliest alphabetically listed movie involving a company from the United States that has the keyword "character-name-in-title"?

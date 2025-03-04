@@ -1,1 +1,1 @@
-What are the names of movie companies, the ratings, and titles of European dark movies with keywords like murder, blood, or violence, produced after 2005 and rated above 6.5, excluding those verified in the USA, from either Sweden or Germany?
+What are the names of companies involved in European dark movies with keywords like 'murder' or 'violence', a rating higher than 6.5, produced after 2005, involving crew and not completely verified casts, and associated with countries like Sweden or Germany, excluding any US-based notes but including responses related to the year 2000s?

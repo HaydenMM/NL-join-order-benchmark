@@ -1,1 +1,1 @@
-What is the name of the production company, the rating, and the title of the mainstream movie produced in the United States between 2000 and 2010, with a genre of Drama, Horror, Western, or Family, and with a rating above 7.0?
+What production companies from the United States were involved in making mainstream movies of the genres Drama, Horror, Western, or Family, with ratings higher than 7.0, released between 2000 and 2010?

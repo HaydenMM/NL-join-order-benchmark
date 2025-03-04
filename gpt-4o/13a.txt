@@ -1,1 +1,1 @@
-What are the earliest release date, the minimum rating, and the title of a German movie where the production company is from Germany and the type is 'production companies'?
+What is the release date, rating, and title of the German movie produced by a production company in Germany?

@@ -1,1 +1,1 @@
-What is the pseudonym of the actor with the coolest name and the series named after a character that has between 5 and 99 episodes, is a US production, and features characters whose names are in the title?
+What is the pseudonym of the coolest actor and the title of a series named after a character, where the series has episodes numbered between 5 and 99, involves a movie company from the United States, and contains the keyword "character-name-in-title"?

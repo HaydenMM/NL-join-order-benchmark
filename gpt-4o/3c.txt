@@ -1,1 +1,1 @@
-What is the title of the earliest movie made after 1990 that is associated with keywords related to a sequel and has information about being produced in or related to Sweden, Norway, Germany, Denmark, the USA, or their respective languages?
+What is the minimum title of a movie that is a sequel, produced after 1990, associated with keywords including 'Sweden', 'Norway', 'Germany', 'Denmark', 'Swedish', 'Denish', 'Norwegian', 'German', 'USA', or 'American'?

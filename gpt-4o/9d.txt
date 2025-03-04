@@ -1,1 +1,1 @@
-What are the minimum alternative name of the actresses, the minimum names of the characters they voiced, the minimum names of the voicing actresses, and the minimum titles of American movies for roles where actresses were credited with a voice-related note in the cast?
+What are the minimum alternative names, voiced character names, voicing actresses, and American movie titles featuring actresses with female gender who have provided voice roles in movies produced by companies with a country code of 'us'?

@@ -1,1 +1,1 @@
-What is the title of the movie with the earliest title alphabetically that has a character's name in the title and is associated with a company from Germany?
+What is the lexicographically smallest movie title produced by a company in Germany, which includes a character name in the title?

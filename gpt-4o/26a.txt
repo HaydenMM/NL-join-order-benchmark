@@ -1,1 +1,1 @@
-What are the names of characters, their ratings, the actors portraying them, and the titles of superhero movies released after 2000 with a rating greater than 7, which feature keywords like 'superhero', 'marvel-comics', or other related terms, and have character names containing 'man' or 'Man'?
+What is the name of the character, the rating, the actor playing the character, and the title of superhero movies or related movies, released after 2000 with a rating greater than 7.0, where the character name contains 'man' or 'Man'?

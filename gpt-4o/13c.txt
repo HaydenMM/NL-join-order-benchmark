@@ -1,1 +1,1 @@
-What are the US production companies, ratings, and titles of movies that have titles starting with "Champion" or "Loser"?
+What is the producing company, rating, and movie title for the movies from U.S. production companies, with titles starting with 'Champion' or 'Loser'?

@@ -1,1 +1,1 @@
-What are the earliest internet release dates and their associated movie titles for US companies with worldwide distribution notes indicating the 2000s, from movies produced after the year 2000?
+What is the earliest release date and the corresponding internet movie title for movies produced in the USA after the year 2000, which have worldwide release notes containing '200' and 'internet' in their movie information, and where the production company is classified under a specified company type?

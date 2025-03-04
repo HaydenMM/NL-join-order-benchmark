@@ -1,1 +1,1 @@
-What is the movie keyword, actor's name, and hero movie title for movies with specific keywords like 'superhero', 'sequel', 'second-part', 'marvel-comics', 'based-on-comic', 'tv-special', 'fight', and 'violence' that were produced after the year 2000?
+What are the earliest keyword, actor name, and movie title for movies with keywords such as 'superhero', 'sequel', 'second-part', 'marvel-comics', 'based-on-comic', 'tv-special', 'fight', 'violence', released after 2000?

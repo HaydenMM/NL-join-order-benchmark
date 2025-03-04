@@ -1,1 +1,1 @@
-Which female actress with a name containing "Ang" provided voice work for movies produced between 2005 and 2009 and released in the USA or worldwide, with release dates including information about Japan or USA starting with "200"?
+What is the minimum name of female voicing actresses whose names contain 'Ang' and who voiced movies produced between 2005 and 2009 with a US or worldwide release, where the movie has specific release dates and where the actress's voice roles include '(voice)', '(voice: Japanese version)', '(voice) (uncredited)', or '(voice: English version)'?

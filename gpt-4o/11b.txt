@@ -1,1 +1,1 @@
-Which production companies from countries other than Poland, with names containing 'Film' or 'Warner', produced sequels with a title containing 'Money' released in 1998, where the relationship 'follows' exists, and what are the links and titles of those sequels?
+What is the name of the production company from a country other than Poland, which includes 'Film' or 'Warner' in its name, and produced a sequel movie following another movie, titled with 'Money', released in 1998?

@@ -1,1 +1,1 @@
-What is the name of the individual whose name starts with 'Z' and is associated with movies that have the keyword 'character-name-in-title'?
+What is the name of the earliest person (alphabetically) with a name starting with 'Z', who acted in a movie that has the keyword 'character-name-in-title'?

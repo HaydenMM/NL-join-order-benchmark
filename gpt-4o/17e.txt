@@ -1,1 +1,1 @@
-What is the name of the member who appears in the movie with a character name in the title, produced by a US-based company, appearing alphabetically first?
+What is the name of the member with the lexicographically smallest name, who was involved in movies with "character-name-in-title" keyword produced by companies from the US?

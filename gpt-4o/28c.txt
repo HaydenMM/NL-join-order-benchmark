@@ -1,1 +1,1 @@
-What are the names of non-US movie companies, along with their ratings and titles of complete European movies featuring keywords such as 'murder', 'blood', or 'violence', produced after 2005 with movie ratings less than 8.5?
+What are the titles, production companies, and ratings of European dark movies produced after 2005 with themes of murder, blood, or violence, that have a rating below 8.5, were made by non-US companies, and are related to Sweden, Norway, Germany, Denmark, USA, or their respective languages?

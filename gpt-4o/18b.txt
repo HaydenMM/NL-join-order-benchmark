@@ -1,1 +1,1 @@
-What is the minimum movie budget, minimum movie votes, and movie title for horror or thriller movies produced between 2008 and 2014, with a female writer, a rating higher than 8.0, and where the genre and rating information are not marked with notes?
+What is the minimum budget, minimum votes, and title of movies where female writers contributed to the genres 'Horror' or 'Thriller', the rating is above 8.0, and the production year is between 2008 and 2014?

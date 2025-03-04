@@ -1,1 +1,1 @@
-What are the movie titles and their minimum ratings for sequels produced after 1990 with a rating greater than 2.0?
+What is the title and rating of the movie with the lowest rating that is a sequel, has a rating greater than 2.0, and was produced after 1990?

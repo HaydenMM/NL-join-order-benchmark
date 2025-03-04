@@ -1,1 +1,1 @@
-What is the minimum budget and minimum number of votes for horror movies titled "Vampire" released after 2010 that involve violent keywords like murder or gore and were written by male writers?
+What is the minimum budget, minimum votes, name of the male writer, and title of the movie related to horror genres, featuring keywords like 'murder', 'blood', 'gore', 'death', or 'female-nudity', produced after 2010 with a title starting with 'Vampire'?

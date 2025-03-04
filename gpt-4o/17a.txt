@@ -1,1 +1,1 @@
-What is the name of the member whose name starts with 'B' and appeared in an American movie with the keyword 'character-name-in-title'?
+What is the earliest alphabetically occurring name of a person, starting with 'B', who is part of the cast of a movie with an American production company and belongs to the keyword 'character-name-in-title'?

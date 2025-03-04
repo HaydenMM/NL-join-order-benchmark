@@ -1,1 +1,1 @@
-What is the minimum movie budget, minimum movie votes, name of the writer, and title of the complete violent movie featuring violent themes and male writer with specific genres such as Horror, Action, Sci-Fi, Thriller, Crime, and War?
+What is the minimum budget, minimum votes, writer's name, and title of a male-written movie with verified complete violent cast that belongs to genres such as Horror, Action, Sci-Fi, Thriller, Crime, or War and with keywords including murder, violence, blood, gore, death, female-nudity, or hospital?

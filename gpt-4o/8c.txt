@@ -1,1 +1,1 @@
-What are the pseudonyms of writers and their corresponding movie titles for movies produced by companies based in the United States?
+What is the pseudonym of the writer and the title of the movie in which the writer with a role of 'writer' has worked, produced by a company from the United States?

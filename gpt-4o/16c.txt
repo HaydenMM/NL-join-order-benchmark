@@ -1,1 +1,1 @@
-What is the pseudonym of the coolest actor and the title of the series named after a character with episodes numbering less than 100, produced in the United States?
+What is the minimum pseudonym of an actor and the minimum title of a series named after a character, where the company's country code is [us], the keyword is 'character-name-in-title', and the episode number is less than 100?

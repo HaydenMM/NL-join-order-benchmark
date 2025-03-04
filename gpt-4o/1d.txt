@@ -1,1 +1,1 @@
-What is the production note, title, and production year for movies produced after 2000 by production companies, excluding those with 'Metro-Goldwyn-Mayer Pictures' in the note, that appear in the bottom 10 rank category?
+What is the production note, title, and production year of movies released after 2000, produced by companies categorized as 'production companies', with movie information of 'bottom 10 rank', and without any note indicating '(as Metro-Goldwyn-Mayer Pictures)'?

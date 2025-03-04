@@ -1,1 +1,1 @@
-What is the lowest budget, fewest votes, male writer's name, and movie title for horror movies with violent keywords such as murder, blood, gore, death, or female nudity?
+What is the minimum budget and votes for horror movies with keywords like murder, blood, gore, death, or female-nudity, featuring a male writer, and provide the title of such a violent movie?

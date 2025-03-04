@@ -1,1 +1,1 @@
-What is the minimum rating and title of the Western dark production movies featuring 'murder' in the title, produced in or after 2010 in countries such as Sweden, Norway, Germany, Denmark, or the USA, with a title or keyword containing “murder,” and rated above 6.0?
+What is the minimum rating and title of the least rated "Dark Western" movies that have keywords such as 'murder' or 'murder-in-title', produced in Sweden, Norway, Germany, Denmark, USA, or their respective languages, with a rating above 6.0, and produced after 2010?

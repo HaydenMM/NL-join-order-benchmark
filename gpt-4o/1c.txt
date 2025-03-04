@@ -1,1 +1,1 @@
-What are the production notes, movie titles, and production years of movies made after 2010 that are co-productions, ranked in the top 250, and not involving Metro-Goldwyn-Mayer Pictures as a production company?
+What are the production notes, titles, and production years of movies made as co-productions by production companies, ranked in the top 250, with production years after 2010 and without "as Metro-Goldwyn-Mayer Pictures" in the note?
